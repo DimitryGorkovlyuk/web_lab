@@ -1,5 +1,6 @@
 <project name="usermanagement" basedir="." default="test">
 	
+	
 	<property name="test-java-dir" value="${basedir}/src/test/java"/>
     <property name="test-resources-dir" value="${basedir}/src/test/resources"/>   
 	
