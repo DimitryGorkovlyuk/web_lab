@@ -18,3 +18,4 @@ com/nixsolutions/usermanagement/web/ValidationException.class
 com/nixsolutions/usermanagement/gui/AddPanel.class
 com/nixsolutions/usermanagement/db/HsqldbUserDao.class
 com/nixsolutions/usermanagement/web/AddServlet.class
+
